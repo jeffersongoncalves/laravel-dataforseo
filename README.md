@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![Laravel DataForSEO](https://raw.githubusercontent.com/jeffersongoncalves/laravel-dataforseo/master/art/jeffersongoncalves-laravel-dataforseo.png)
+![Laravel DataForSEO](https://raw.githubusercontent.com/jeffersongoncalves/laravel-dataforseo/main/art/jeffersongoncalves-laravel-dataforseo.png)
 
 </div>
 
